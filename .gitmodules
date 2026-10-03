@@ -5,6 +5,9 @@
 [submodule "rGrSPTT"]
 	path = rGrSPTT
 	url = https://github.com/cran/rGrSPTT
+[submodule "rMDSPTT"]
+	path = rMDSPTT
+	url = https://github.com/cran/rMDSPTT
 [submodule "rReGSPTT"]
 	path = rReGSPTT
 	url = https://github.com/cran/rReGSPTT
